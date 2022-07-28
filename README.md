@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @SwannedLakee
-- 👀 I’m interested in Drama and Film Production
-- I just started learning coding
-
 # Good tool
 Add this to `.github/workflows/sync.yml`
 
@@ -25,3 +21,7 @@ jobs:
           base: master # this should match  actual name of the branch (check it with the original repo)
           head: master # this should match  actual name of the branch (check it with the original repo)
 ```
+- 👋 Hi, I’m @SwannedLakee
+- 👀 I’m interested in Drama and Film Production
+- I just started learning coding
+
