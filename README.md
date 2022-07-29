@@ -1,5 +1,5 @@
 # Good tool
-Add this to `.github/workflows/sync.yml`
+Add this to `.github/workflows/sync.yml`. It will keep your forks in sync with the original one.
 
 ```
 name: Sync Fork
